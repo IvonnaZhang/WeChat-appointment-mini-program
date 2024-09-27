@@ -1,0 +1,8 @@
+每一个写好的单独jar包放在“本地运行单个jar包集合”,文件夹中，总的jar在外面。
+运行jar 包命令：java -jar xxx.jar
+
+xxx.jar为具体jar包名字。
+
+整合了用户端所有接口的jar包为：demo.jar
+
+整合了管理端所有接口的jar包为：black.jar
